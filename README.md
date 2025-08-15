@@ -1,4 +1,4 @@
-MiniGit
+MiniGit-Version-Control-System
 
 A simplified version control system built in Python, inspired by Git.
 Perfect for learning how commit, checkout, and staging work internally.
