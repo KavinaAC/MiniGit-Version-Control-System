@@ -8,7 +8,14 @@ to help beginners understand how version control works internally.
 - **Initialize a repository** – Create a `.mygit` folder to track file changes.  
 - **Stage files** – Add files to the staging area before committing.  
 - **Commit changes** – Save file snapshots with commit messages.  
-- **Checkout** – Restore files from a specific commit.  
+- **Checkout** – Restore files from a specific commit.
+
+🖥 Tech Stack
+
+Python 3.x – Core programming language
+File Handling & Hashing – SHA-1 hashing for version tracking
+DSA Concepts – Commit history management (linked-list style)
+Tkinter – GUI interface for easy visual usage alongside CLI
 
 📦 Installation
 
@@ -29,13 +36,20 @@ Creates a .mygit folder in your project directory.
 python main.py add <filename>
 
 3️⃣ Commit changes
+
 python main.py commit "Your commit message"
 
 4️⃣ View commit log
+
 python main.py log
 
 5️⃣ Checkout a commit
+
 python main.py checkout <commit_hash>
+
+6️⃣ Prune Objects
+
+python main.py prune
 
 📄 License
 This project is licensed under the MIT License – you can use, modify, and distribute it fr
