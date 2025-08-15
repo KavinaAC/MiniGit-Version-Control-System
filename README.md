@@ -13,8 +13,11 @@ to help beginners understand how version control works internally.
 🖥 Tech Stack
 
 Python 3.x – Core programming language
+
 File Handling & Hashing – SHA-1 hashing for version tracking
+
 DSA Concepts – Commit history management (linked-list style)
+
 Tkinter – GUI interface for easy visual usage alongside CLI
 
 📦 Installation
